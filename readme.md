@@ -195,3 +195,7 @@ dotnet run
 ```
 This command will show you the URL that your application is running on.  
 
+## Acknowledgements
+This tutorial is based on the excellent *Get started with EF Core in an ASP.NET MVC web app* tutorial from Microsoft.
+
+https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-3.1
